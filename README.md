@@ -16,6 +16,6 @@
 
 ###
 
-<h4 align="left">I code with  c,c++ and  learning java.</h4>
+<h4 align="left">I code with C,C++ and learning JAVA.</h4>
 
 ###
