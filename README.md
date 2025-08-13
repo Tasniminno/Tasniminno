@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">My name is Jarin  and I'm a  Student  from Bangladesh.</p>
+<p align="center">My name is Jarin,an aspiring software engineer currently pursuing a Bachelor of Science in Computer Science and Engineering (BSc in CSE) at Daffodil International University (DIU), Bangladesh.</p>
 
 ###
 
